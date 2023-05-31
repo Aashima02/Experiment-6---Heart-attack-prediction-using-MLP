@@ -1,7 +1,7 @@
 # Experiment-6---Heart-attack-prediction-using-MLP
 ## AIM:
 
-      To construct a  Multi-Layer Perceptron to predict heart attack using Python
+ To construct a  Multi-Layer Perceptron to predict heart attack using Python
       
 ## ALGORITHM:
 
@@ -77,6 +77,7 @@ plt.show()
 
 
 ## RESULT:
-     Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
+
+Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
      
 
